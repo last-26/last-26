@@ -60,11 +60,8 @@ An AI-driven platform that automates CV evaluation using:
 
 ### ⚡ GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pextremen&show_icons=true&theme=default" alt="Pextremen's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pextremen&layout=compact" alt="Top Langs" />
-</p>
+![Pextremen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pextremen&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pextremen&layout=compact)
 
-<p align="center">
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Pextremen)
-</p>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Pextremen)
+
