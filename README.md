@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🧭 <img src="https://visitor-badge.laobi.icu/badge?page_id=Pextremen" alt="visitor badge"/> Visitors
+  🧭 <img src="https://komarev.com/ghpvc/?username=Pextremen&color=blue" alt="visitor count"/> Visitors
 </p>
 
 ---
