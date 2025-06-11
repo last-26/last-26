@@ -1,21 +1,20 @@
+```markdown
 <h1 align="center">Hi, I'm Samet Soysal 👋</h1>
-
 <p align="center">
   🎓 Final-year Computer Engineering Student <br>
   🧠 Passionate about AI, Machine Learning & NLP <br>
   💻 Full-stack Developer | AI Enthusiast | Problem Solver
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pextremen" alt="visitor badge" style="height:30px; vertical-align: middle; margin-right: 8px;" />
-  <span style="font-size: 18px; vertical-align: middle;">🧭 Visitors</span>
-</p>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pextremen" alt="visitor badge"/>
+  <br>
+  🧭 Visitors
+</div>
 
 ---
 
 ### 🧑‍💻 About Me
-
 I am a final-year Computer Engineering student at Eskişehir Osmangazi University. I specialize in integrating AI models into full-stack applications, blending my experience in frontend and backend development with a strong theoretical foundation in computer engineering. 
 
 I enjoy building AI-powered applications using Python, Flask, and modern JavaScript frameworks. I am also experienced in developing both desktop and web applications with C#. My current focus is on Natural Language Processing and machine learning model deployment.
@@ -57,7 +56,6 @@ An AI-driven platform that automates CV evaluation using:
 ---
 
 ### 📫 Contact
-
 - 📧 Email: a.sametsoysal@gmail.com  
 - 🔗 LinkedIn: [samet-soysal](https://linkedin.com/in/samet-soysal-92b2101ba)  
 - 💻 GitHub: [Pextremen](https://github.com/Pextremen)
@@ -65,8 +63,8 @@ An AI-driven platform that automates CV evaluation using:
 ---
 
 ### ⚡ GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pextremen&show_icons=true&theme=default" alt="Pextremen's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pextremen&layout=compact" alt="Top Langs" />
 </p>
+```
