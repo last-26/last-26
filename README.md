@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi, I'm Samet Soysal 👋</h1>
 <p align="center">
   🎓 Final-year Computer Engineering Student <br>
@@ -67,4 +66,3 @@ An AI-driven platform that automates CV evaluation using:
   <img src="https://github-readme-stats.vercel.app/api?username=Pextremen&show_icons=true&theme=default" alt="Pextremen's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pextremen&layout=compact" alt="Top Langs" />
 </p>
-```
