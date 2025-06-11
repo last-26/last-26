@@ -6,6 +6,10 @@
   💻 Full-stack Developer | AI Enthusiast | Problem Solver
 </p>
 
+<p align="center">
+  🧭 <img src="https://visitor-badge.laobi.icu/badge?page_id=Pextremen" alt="visitor badge" style="height:28px;" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -60,8 +64,7 @@ An AI-driven platform that automates CV evaluation using:
 
 ### ⚡ GitHub Stats
 
-![Pextremen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pextremen&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pextremen&layout=compact)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Pextremen)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pextremen&show_icons=true&theme=default" alt="Pextremen's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pextremen&layout=compact" alt="Top Langs" />
+</p>
