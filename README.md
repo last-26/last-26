@@ -41,6 +41,7 @@ I enjoy building AI-powered applications using Python, Flask, and modern JavaScr
 ![MSSQL](https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA326?style=flat&logo=gitlab&logoColor=white)
 ![GitAhead](https://img.shields.io/badge/-GitAhead-00B4AB?style=flat&logo=git&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
