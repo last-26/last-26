@@ -7,8 +7,10 @@
 </p>
 
 <p align="center">
-  🧭 <img src="https://visitor-badge.laobi.icu/badge?page_id=Pextremen" alt="visitor badge" style="height:28px;" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pextremen" alt="visitor badge" style="height:30px; vertical-align: middle; margin-right: 8px;" />
+  <span style="font-size: 18px; vertical-align: middle;">🧭 Visitors</span>
 </p>
+
 
 ---
 
