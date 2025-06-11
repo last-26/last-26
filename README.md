@@ -5,10 +5,6 @@
   💻 Full-stack Developer | AI Enthusiast | Problem Solver
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pextremen" alt="visitor badge" height="25"/>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
