@@ -12,6 +12,8 @@ I am a final-year Computer Engineering student at Eskişehir Osmangazi Universit
 
 I enjoy building AI-powered applications using Python, Flask, and modern JavaScript frameworks. I am also experienced in developing both desktop and web applications with C#. My current focus is on Natural Language Processing and machine learning model deployment.
 
+### 🔐 Cyber Security Journey
+I am currently diving into cyber security and plan to advance my knowledge and skills in this field after graduation. I'm passionate about building secure applications and understanding the evolving landscape of digital threats and defenses.
 ---
 
 ### 🚀 Skills & Technologies
