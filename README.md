@@ -60,7 +60,7 @@ An AI-driven platform that automates CV evaluation using:
 
 ### 📫 Contact
 - 📧 Email: a.sametsoysal@gmail.com  
-- 🔗 LinkedIn: [samet-soysal](https://linkedin.com/in/samet-soysal-92b2101ba)  
+- 🔗 LinkedIn: [samet-soysal](https://linkedin.com/in/samet-soysal)  
 - 💻 GitHub: [Pextremen](https://github.com/Pextremen)
 
 ---
