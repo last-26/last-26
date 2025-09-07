@@ -47,7 +47,7 @@ I am currently diving into cyber security and plan to advance my knowledge and s
 
 ### 📌 Projects
 
-#### 🔍 [AI-Powered CV & Portfolio Analysis Platform](https://github.com/Pextremen) *(Capstone Project)*  
+#### 🔍 [AI-Powered CV & Portfolio Analysis Platform](https://github.com/last-26) *(Capstone Project)*  
 An AI-driven platform that automates CV evaluation using:
 - Sentence-Transformers (MiniLM)
 - Random Forest for ATS scoring
@@ -61,16 +61,16 @@ An AI-driven platform that automates CV evaluation using:
 ### 📫 Contact
 - 📧 Email: a.sametsoysal@gmail.com  
 - 🔗 LinkedIn: [samet-soysal](https://linkedin.com/in/samet-soysal)  
-- 💻 GitHub: [Pextremen](https://github.com/Pextremen)
+- 💻 GitHub: [last-26](https://github.com/last-26)
 
 ---
 
 ### ⚡ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pextremen&show_icons=true&theme=default" alt="Pextremen's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pextremen&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=last-26&show_icons=true&theme=default" alt="last-26's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=last-26&layout=compact" alt="Top Langs" />
 </p>
 
 <div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Pextremen" alt="visitor badge" height="25"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=last-26" alt="visitor badge" height="25"/>
 </div>
