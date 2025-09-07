@@ -67,3 +67,9 @@ I build **AI-powered applications** by integrating models into full-stack system
   <img src="https://github-readme-stats.vercel.app/api?username=last-26&show_icons=true&theme=default" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=last-26&layout=compact" alt="Top Langs" />
 </p>
+
+---
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=last-26" alt="visitor badge" height="25"/>
+</p>
