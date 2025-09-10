@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I am a senior Computer Engineering student at **Eskişehir Osmangazi University**, specializing in **Artificial Intelligence, Machine Learning, and Natural Language Processing**.  
+I am a senior Software Developer, specializing in **Artificial Intelligence, Machine Learning, and Natural Language Processing**.  
 I build **AI-powered applications** by integrating models into full-stack systems, combining backend, frontend, and database expertise.  
 
 - 🚀 Hands-on with **RAG systems, embeddings, vector databases, and transformer-based models**  
