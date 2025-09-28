@@ -1,65 +1,80 @@
 <h1 align="center">👋 Hi, I'm Samet Soysal</h1>
 <p align="center">
-  💻 Full-stack Developer | Problem Solver <br>
-  🧠 AI, Machine Learning & NLP Enthusiast <br>
+  💻 AI & Full-Stack Developer | NLP Specialist <br>
+  🚀 Building scalable AI solutions with modern technologies <br>
 </p>
 
 ---
 
-###  About Me
-I am a senior Software Developer, specializing in **Artificial Intelligence, Machine Learning, and Natural Language Processing**.  
-I build **AI-powered applications** by integrating models into full-stack systems, combining backend, frontend, and database expertise.  
+### 🧑‍💻 About Me
+I'm a passionate developer specializing in **Artificial Intelligence, Machine Learning, and Natural Language Processing**.  
+I build **production-ready AI systems** including RAG pipelines, OCR solutions, and multi-model applications with full-stack expertise.
 
-- 🚀 Hands-on with **RAG systems, embeddings, vector databases, and transformer-based models**  
-- 📊 Experienced in **OCR technologies** and **multimodal AI**  
-- 🔐 Exploring **Cyber Security** to develop secure and reliable applications  
+- 🔍 Strong expertise in **RAG systems, embedding technologies, vector databases, and transformer models**  
+- 📄 Experienced in **OCR-based data extraction** and **multimodal AI systems**  
+- ⚙️ Skilled in **backend development, API integrations, and workflow automation**  
+- 🎯 Focused on building **scalable and efficient AI solutions** for real-world business problems  
 
 ---
 
-### ⚙️ Skills & Technologies  
+### ⚙️ Technical Stack  
 
-#### Programming
-`Python` · `JavaScript/TypeScript` · `C#` · `C/C++` · `SQL`
+#### Programming Languages
+`Python` · `JavaScript/TypeScript` · `C#` · `SQL` · `C/C++`
 
-#### AI / ML
-`PyTorch` · `TensorFlow` · `Keras` · `Hugging Face` · `scikit-learn` · `XGBoost` · `LightGBM`
+#### AI & Machine Learning
+`PyTorch` · `TensorFlow` · `scikit-learn` · `Hugging Face` · `XGBoost` · `LightGBM`
 
 #### NLP & RAG
-`Sentence-Transformers` · `LangChain` · `LlamaIndex` · `ChromaDB` · `Qdrant` · `FAISS` · `Weaviate`
+`BERT` · `GPT` · `Sentence-Transformers` · `LangChain` · `LlamaIndex` · `OpenAI API` · `OpenRouter API`
+
+#### Vector Databases
+`ChromaDB` · `Pinecone` · `Qdrant` · `Weaviate` · `FAISS` · `MongoDB Vector Search`
 
 #### Computer Vision & OCR
-`Qwen2.5-VL` · `Donut` · `Tesseract` · `OpenCV`
+`Qwen2.5-VL` · `Donut` · `OpenCV` · `Tesseract`
 
-#### Backend & Databases
-`Flask` · `FastAPI` · `Express.js` · `PostgreSQL` · `MongoDB` · `Redis`
+#### Backend & APIs
+`FastAPI` · `Flask` · `Node.js` · `Express.js` · `ASP.NET Core` · `RESTful APIs`
 
-#### Frontend & Tools
-`React.js` · `Next.js` · `TailwindCSS` · `Docker` · `Git/GitHub/GitLab`
+#### Frontend
+`React.js` · `Next.js` · `TailwindCSS` · `TypeScript`
 
----
+#### Databases
+`PostgreSQL` · `MongoDB` · `Redis` · `SQL Server`
 
-### 📌 Projects  
-
-#### 🔍 [HIREAI – AI-Powered CV & Portfolio Analysis Platform](https://github.com/last-26) *(Capstone Project)*  
-- ATS-focused CV evaluation with **Sentence-Transformers + TF-IDF + rule-based scoring**  
-- Backend: **Flask-RESTX, PostgreSQL, JWT Auth** (scalable, 1200+ users)  
-- Frontend: **React.js + TailwindCSS** HR dashboards  
-- Achieved **94.2% accuracy** in candidate evaluation  
-
-#### 📑 SAMETEI – AI-Powered HR Document Management Platform *(Corporate Project)*  
-- Multi-LLM platform for **HR automation with RAG & OCR**  
-- Tech Stack: **React/TypeScript, Node.js, MongoDB (vector search)**  
-- Integrated **Claude, GPT, DeepSeek** via OpenRouter API  
-- Reduced HR document processing time by **70%**, serving **100+ users**  
+#### DevOps & Tools
+`Docker` · `Git` · `GitLab` · `Playwright` · `n8n` · `VS Code`
 
 ---
 
-### 📫 Contact
+### 🚀 Featured Projects  
+
+#### 📑 [SAMETEI – AI-Powered HR Document Management Platform](https://github.com/last-26/SAMETEI)
+- Multi-LLM platform built on **LibreChat framework** for HR automation with **RAG & OCR**
+- **Tech Stack:** React/TypeScript, Node.js, MongoDB Vector Search, ChromaDB, OpenRouter API
+- **AI Features:** Multi-model orchestration (Claude, GPT, DeepSeek), Sentence-Transformers embeddings, Qwen2.5-VL OCR
+- **Impact:** Reduced HR document processing time by **70%** through accurate data extraction
+
+#### 🔍 [HIREAI – AI-Powered CV Analysis Platform](https://gitlab.com/last-26/cv-analysis)
+- ATS-based CV analysis with **hybrid AI architecture** (classical NLP + Transformers)
+- **Tech Stack:** Flask-RESTX, PostgreSQL, React.js, TailwindCSS, HuggingFace Sentence Transformers
+- **AI Features:** Semantic analysis with Cosine Similarity, ATS-compliant scoring, improvement suggestions
+- **Impact:** Reduced HR pre-screening time by **50%** through automatic candidate ranking
+
+#### 🤖 Multi-Model Chatbot & Automation Solutions
+- Designed **multi-model chatbot infrastructures** with LibreChat integration
+- Developed **OCR system** for table and form data extraction using Qwen2.5-VL
+- Created **RAG-based document querying** prototypes for accelerated information access
+- Built **automation solutions** with Playwright and n8n workflow automation
+
+---
+
+### 📫 Connect With Me  
 - 📧 Email: **a.sametsoysal@gmail.com**  
-- 🔗 LinkedIn: [samet-soysal](https://linkedin.com/in/samet-soysal)  
 - 💻 GitHub: [last-26](https://github.com/last-26)  
+- 🔗 LinkedIn: [samet-soysal](https://linkedin.com/in/samet-soysal)  
 
----
 
 ### ⚡ GitHub Stats
 <p align="center">
