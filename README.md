@@ -6,7 +6,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 I am a senior Software Developer, specializing in **Artificial Intelligence, Machine Learning, and Natural Language Processing**.  
 I build **AI-powered applications** by integrating models into full-stack systems, combining backend, frontend, and database expertise.  
 
