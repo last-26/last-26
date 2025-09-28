@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm Samet Soysal</h1>
 <p align="center">
-  🎓 Final-year Computer Engineering Student <br>
+  💻 Full-stack Developer | Problem Solver <br>
   🧠 AI, Machine Learning & NLP Enthusiast <br>
-  💻 Full-stack Developer | Problem Solver
 </p>
 
 ---
