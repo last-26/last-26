@@ -12,8 +12,8 @@ I am a results-oriented AI Developer with a passion for using modern technologie
 
 - 🔍 I have deep expertise in **RAG systems**, embedding technologies, vector databases, and transformer models.
 - 📄 Experienced in **OCR-based data extraction** and multimodal AI systems.
-- [cite_start]⚙️ I build full-stack solutions from concept to live system using modern tools like **Python, FastAPI, React, and Docker**[cite: 10].
-- [cite_start]🎯 I accelerated corporate workflows by developing an AI assistant that improved document processing times by up to **70%**[cite: 9, 40].
+- ⚙️ I build full-stack solutions from concept to live system using modern tools like **Python, FastAPI, React, and Docker**.
+- 🎯 I accelerated corporate workflows by developing an AI assistant that improved document processing times by up to **70%**.
 
 ---
 
@@ -26,28 +26,32 @@ I am a results-oriented AI Developer with a passion for using modern technologie
   <code>C#</code>
   <code>SQL</code>
   <code>PostgreSQL</code>
-  <code>MongoDB</code>
   <code>MySQL</code>
   <code>MSSQL</code>
+  <code>MongoDB</code>
   <code>Redis</code>
 </p>
 
 <p align="center">
-  <strong>AI & Machine Learning</strong><br>
+  <strong>AI & ML Frameworks</strong><br>
   <code>PyTorch</code>
   <code>TensorFlow</code>
   <code>Hugging Face Transformers</code>
   <code>Scikit-learn</code>
   <code>XGBoost</code>
-  <code>LangChain</code>
-  <code>LlamaIndex</code>
 </p>
 
 <p align="center">
-  <strong>NLP, RAG & Vector Search</strong><br>
+  <strong>NLP & LLM</strong><br>
+  <code>LangChain</code>
+  <code>LlamaIndex</code>
   <code>OpenAI API</code>
   <code>OpenRouter API</code>
   <code>Sentence-Transformers</code>
+</p>
+
+<p align="center">
+  <strong>RAG & Vector Search</strong><br>
   <code>ChromaDB</code>
   <code>Qdrant</code>
   <code>FAISS</code>
@@ -56,10 +60,10 @@ I am a results-oriented AI Developer with a passion for using modern technologie
 
 <p align="center">
   <strong>Document Processing & OCR</strong><br>
-  <code>Qwen2.5-VL</code>
   <code>OpenCV</code>
   <code>Tesseract</code>
   <code>Table-Transformer</code>
+  <code>DOTS</code>
   <code>PyMuPDF</code>
 </p>
 
@@ -83,10 +87,10 @@ I am a results-oriented AI Developer with a passion for using modern technologie
 
 <p align="center">
   <strong>Automation & DevOps</strong><br>
-  <code>Docker</code>
-  <code>Git</code>
   <code>Playwright</code>
   <code>n8n</code>
+  <code>Docker</code>
+  <code>Git</code>
 </p>
 
 ---
