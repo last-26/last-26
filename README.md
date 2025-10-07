@@ -7,8 +7,7 @@
 ---
 
 ### 🧑‍💻 About Me
-I'm a passionate developer specializing in **Artificial Intelligence, Machine Learning, and Natural Language Processing**.  
-I build **production-ready AI systems** including RAG pipelines, OCR solutions, and multi-model applications with full-stack expertise.
+I'm a passionate developer specializing in **Artificial Intelligence, Machine Learning, and Natural Language Processing**. I build **production-ready AI systems** including RAG pipelines, OCR solutions, and multi-model applications with full-stack expertise.
 
 - 🔍 Strong expertise in **RAG systems, embedding technologies, vector databases, and transformer models**  
 - 📄 Experienced in **OCR-based data extraction** and **multimodal AI systems**  
