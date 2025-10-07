@@ -19,78 +19,79 @@ I am a results-oriented AI Developer with a passion for using modern technologie
 
 ### ⚙️ Technologies & Skills
 
-<p align="center">
+<p>
   <strong>Programming Languages & Databases</strong><br>
-  <code>Python</code>
-  <code>JavaScript/TypeScript</code>
-  <code>C#</code>
-  <code>SQL</code>
-  <code>PostgreSQL</code>
-  <code>MySQL</code>
-  <code>MSSQL</code>
-  <code>MongoDB</code>
-  <code>Redis</code>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
-<p align="center">
+<p>
   <strong>AI & ML Frameworks</strong><br>
-  <code>PyTorch</code>
-  <code>TensorFlow</code>
-  <code>Hugging Face Transformers</code>
-  <code>Scikit-learn</code>
-  <code>XGBoost</code>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
 </p>
 
-<p align="center">
+<p>
   <strong>NLP & LLM</strong><br>
-  <code>LangChain</code>
-  <code>LlamaIndex</code>
-  <code>OpenAI API</code>
-  <code>OpenRouter API</code>
-  <code>Sentence-Transformers</code>
+  <img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/OpenRouter-8C52FF?style=for-the-badge" alt="OpenRouter"/>
+  <img src="https://img.shields.io/badge/Sentence Transformers-3178C6?style=for-the-badge" alt="Sentence Transformers"/>
 </p>
 
-<p align="center">
+<p>
   <strong>RAG & Vector Search</strong><br>
-  <code>ChromaDB</code>
-  <code>Qdrant</code>
-  <code>FAISS</code>
-  <code>OpenAI Embeddings</code>
+  <img src="https://img.shields.io/badge/ChromaDB-5B39A3?style=for-the-badge" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Qdrant-AC143C?style=for-the-badge" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/FAISS-4A90E2?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/OpenAI_Embeddings-412991?style=for-the-badge" alt="OpenAI Embeddings"/>
 </p>
 
-<p align="center">
+<p>
   <strong>Document Processing & OCR</strong><br>
-  <code>OpenCV</code>
-  <code>Tesseract</code>
-  <code>Table-Transformer</code>
-  <code>DOTS</code>
-  <code>PyMuPDF</code>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Tesseract-000000?style=for-the-badge&logo=tesseract&logoColor=white" alt="Tesseract"/>
+  <img src="https://img.shields.io/badge/Table_Transformer-grey?style=for-the-badge" alt="Table Transformer"/>
+  <img src="https://img.shields.io/badge/PyMuPDF-grey?style=for-the-badge" alt="PyMuPDF"/>
 </p>
 
-<p align="center">
+<p>
   <strong>Backend & API Development</strong><br>
-  <code>FastAPI</code>
-  <code>Flask</code>
-  <code>Express.js</code>
-  <code>ASP.NET Core Web API</code>
-  <code>JWT</code>
-  <code>OAuth</code>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/OAuth-239120?style=for-the-badge&logo=oauth&logoColor=white" alt="OAuth"/>
 </p>
 
-<p align="center">
+<p>
   <strong>Frontend & Mobile</strong><br>
-  <code>React.js</code>
-  <code>Next.js</code>
-  <code>TailwindCSS</code>
-  <code>Flutter (Dart)</code>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
 </p>
 
-<p align="center">
+<p>
   <strong>Automation & DevOps</strong><br>
-  <code>Playwright</code>
-  <code>n8n</code>
-  <code>Docker</code>
-  <code>Git</code>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/n8n-1A82E2?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
 ---
