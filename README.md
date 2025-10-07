@@ -1,79 +1,114 @@
 <h1 align="center">👋 Hi, I'm Samet Soysal</h1>
 <p align="center">
-  💻 AI & Full-Stack Developer | NLP Specialist <br>
-  🚀 Building scalable AI solutions with modern technologies <br>
+  💻 Applied AI & Full-Stack Developer <br>
+  🚀 Building end-to-end, scalable, and production-ready AI solutions.
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-I'm a passionate developer specializing in **Artificial Intelligence, Machine Learning, and Natural Language Processing**. I build **production-ready AI systems** including RAG pipelines, OCR solutions, and multi-model applications with full-stack expertise.
 
-- 🔍 Strong expertise in **RAG systems, embedding technologies, vector databases, and transformer models**  
-- 📄 Experienced in **OCR-based data extraction** and **multimodal AI systems**  
-- ⚙️ Skilled in **backend development, API integrations, and workflow automation**  
-- 🎯 Focused on building **scalable and efficient AI solutions** for real-world business problems  
+I am a results-oriented AI Developer with a passion for using modern technologies to solve challenging real-world problems. I focus on areas like **Generative AI**, **RAG systems**, and **Multi-LLM Orchestration**.
 
----
-
-### ⚙️ Technical Stack  
-
-#### Programming Languages
-`Python` · `JavaScript/TypeScript` · `C#` · `SQL` · `C/C++`
-
-#### AI & Machine Learning
-`PyTorch` · `TensorFlow` · `scikit-learn` · `Hugging Face` · `XGBoost` · `LightGBM`
-
-#### NLP & RAG
-`BERT` · `GPT` · `Sentence-Transformers` · `LangChain` · `LlamaIndex` · `OpenAI API` · `OpenRouter API`
-
-#### Vector Databases
-`ChromaDB` · `Pinecone` · `Qdrant` · `Weaviate` · `FAISS` · `MongoDB Vector Search`
-
-#### Computer Vision & OCR
-`Qwen2.5-VL` · `Donut` · `OpenCV` · `Tesseract`
-
-#### Backend & APIs
-`FastAPI` · `Flask` · `Node.js` · `Express.js` · `ASP.NET Core` · `RESTful APIs`
-
-#### Frontend
-`React.js` · `Next.js` · `TailwindCSS` · `TypeScript`
-
-#### Databases
-`PostgreSQL` · `MongoDB` · `Redis` · `SQL Server`
-
-#### DevOps & Tools
-`Docker` · `Git` · `GitLab` · `Playwright` · `n8n` · `VS Code`
+- 🔍 I have deep expertise in **RAG systems**, embedding technologies, vector databases, and transformer models.
+- 📄 Experienced in **OCR-based data extraction** and multimodal AI systems.
+- [cite_start]⚙️ I build full-stack solutions from concept to live system using modern tools like **Python, FastAPI, React, and Docker**[cite: 10].
+- [cite_start]🎯 I accelerated corporate workflows by developing an AI assistant that improved document processing times by up to **70%**[cite: 9, 40].
 
 ---
 
-### 🚀 Featured Projects  
+### ⚙️ Technologies & Skills
 
-#### 📑 [SAMETEI – AI-Powered HR Document Management Platform](https://github.com/last-26/SAMETEI)
-- Multi-LLM platform built on **LibreChat framework** for HR automation with **RAG & OCR**
-- **Tech Stack:** React/TypeScript, Node.js, MongoDB Vector Search, ChromaDB, OpenRouter API
-- **AI Features:** Multi-model orchestration (Claude, GPT, DeepSeek), Sentence-Transformers embeddings, Qwen2.5-VL OCR
-- **Impact:** Reduced HR document processing time by **70%** through accurate data extraction
+<p align="center">
+  <strong>Programming Languages & Databases</strong><br>
+  <code>Python</code>
+  <code>JavaScript/TypeScript</code>
+  <code>C#</code>
+  <code>SQL</code>
+  <code>PostgreSQL</code>
+  <code>MongoDB</code>
+  <code>MySQL</code>
+  <code>MSSQL</code>
+  <code>Redis</code>
+</p>
 
-#### 🔍 [HIREAI – AI-Powered CV Analysis Platform](https://gitlab.com/last-26/cv-analysis)
-- ATS-based CV analysis with **hybrid AI architecture** (classical NLP + Transformers)
-- **Tech Stack:** Flask-RESTX, PostgreSQL, React.js, TailwindCSS, HuggingFace Sentence Transformers
-- **AI Features:** Semantic analysis with Cosine Similarity, ATS-compliant scoring, improvement suggestions
-- **Impact:** Reduced HR pre-screening time by **50%** through automatic candidate ranking
+<p align="center">
+  <strong>AI & Machine Learning</strong><br>
+  <code>PyTorch</code>
+  <code>TensorFlow</code>
+  <code>Hugging Face Transformers</code>
+  <code>Scikit-learn</code>
+  <code>XGBoost</code>
+  <code>LangChain</code>
+  <code>LlamaIndex</code>
+</p>
 
-#### 🤖 Multi-Model Chatbot & Automation Solutions
-- Designed **multi-model chatbot infrastructures** with LibreChat integration
-- Developed **OCR system** for table and form data extraction using Qwen2.5-VL
-- Created **RAG-based document querying** prototypes for accelerated information access
-- Built **automation solutions** with Playwright and n8n workflow automation
+<p align="center">
+  <strong>NLP, RAG & Vector Search</strong><br>
+  <code>OpenAI API</code>
+  <code>OpenRouter API</code>
+  <code>Sentence-Transformers</code>
+  <code>ChromaDB</code>
+  <code>Qdrant</code>
+  <code>FAISS</code>
+  <code>OpenAI Embeddings</code>
+</p>
+
+<p align="center">
+  <strong>Document Processing & OCR</strong><br>
+  <code>Qwen2.5-VL</code>
+  <code>OpenCV</code>
+  <code>Tesseract</code>
+  <code>Table-Transformer</code>
+  <code>PyMuPDF</code>
+</p>
+
+<p align="center">
+  <strong>Backend & API Development</strong><br>
+  <code>FastAPI</code>
+  <code>Flask</code>
+  <code>Express.js</code>
+  <code>ASP.NET Core Web API</code>
+  <code>JWT</code>
+  <code>OAuth</code>
+</p>
+
+<p align="center">
+  <strong>Frontend & Mobile</strong><br>
+  <code>React.js</code>
+  <code>Next.js</code>
+  <code>TailwindCSS</code>
+  <code>Flutter (Dart)</code>
+</p>
+
+<p align="center">
+  <strong>Automation & DevOps</strong><br>
+  <code>Docker</code>
+  <code>Git</code>
+  <code>Playwright</code>
+  <code>n8n</code>
+</p>
 
 ---
 
-### 📫 Connect With Me  
-- 📧 Email: **a.sametsoysal@gmail.com**  
-- 💻 GitHub: [last-26](https://github.com/last-26)  
-- 🔗 LinkedIn: [samet-soysal](https://linkedin.com/in/samet-soysal)  
+### 🚀 My Project Portfolio
 
+You can visit my personal portfolio website to explore detailed descriptions, live demos, technical architectures, and the source code of my projects.
+
+<p align="center">
+  <a href="https://last-26.web.app/">
+    <img src="https://img.shields.io/badge/Explore%20Portfolio-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio Website">
+  </a>
+</p>
+
+---
+
+### 📫 Connect With Me
+- 📧 **E-mail:** <a href="mailto:a.sametsoysal@gmail.com">a.sametsoysal@gmail.com</a>
+- 🔗 **LinkedIn:** <a href="https://linkedin.com/in/samet-soysal">linkedin.com/in/samet-soysal</a>
+- 💻 **GitHub:** <a href="https://github.com/last-26">github.com/last-26</a>
+
+---
 
 ### ⚡ GitHub Stats
 <p align="center">
