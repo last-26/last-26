@@ -92,6 +92,7 @@ I am a results-oriented AI Developer with a passion for using modern technologie
   <img src="https://img.shields.io/badge/n8n-1A82E2?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D12?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 </p>
 
 ---
