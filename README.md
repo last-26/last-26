@@ -1,27 +1,46 @@
 <h1 align="center">👋 Hi, I'm Samet Soysal</h1>
 <p align="center">
-  💻 Computer Engineer | Applied AI & Full-Stack Developer <br>
+  💻 AI Engineer & Full-Stack Developer &nbsp;|&nbsp; Computer Engineering Graduate<br>
   🚀 Building end-to-end, scalable, and production-ready AI solutions.
+</p>
+
+<p align="center">
+  <a href="https://last-26.web.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio%20—%20last--26.web.app-000000?style=for-the-badge&logoColor=white" alt="Portfolio Website"/>
+  </a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-[cite_start]I am a results-driven **Computer Engineer** specializing in Artificial Intelligence, NLP, and Large Language Models (LLMs). [cite_start]My core strength lies in bridging the gap between complex machine learning models and scalable full-stack development (React, FastAPI, PostgreSQL) to deliver data-driven solutions with millisecond-level latency and over 95% accuracy[cite: 64].
+I'm an AI Engineer and Full-Stack Developer specializing in **Generative AI**, **RAG pipelines**, and **Multi-LLM Orchestration**. I bridge the gap between complex machine learning models and production-grade full-stack systems — delivering data-driven solutions with millisecond-level latency and high accuracy.
 
-- [cite_start]🧠 Deep expertise in designing **end-to-end AI architectures, high-performance RAG pipelines**, and **Multi-LLM orchestrations**[cite: 63].
-- [cite_start]🔒 Experienced in modeling secure, offline (air-gapped) AI systems for enterprise environments and **OCR-based data extraction**[cite: 75].
-- ⚙️ Building full-stack solutions from concept to live production systems using modern tools like **Python, FastAPI, React, and Docker**.
-- [cite_start]🚀 Recently developed a Generative AI platform serving **1,200+ engineers**, successfully reducing document retrieval latency to millisecond levels[cite: 93, 97].
+- 🤖 Deep expertise in **RAG systems**, vector databases, embedding models, and LLM orchestration architectures.
+- 🏭 Built and deployed AI platforms serving **1,200+ engineers** in enterprise, air-gapped environments.
+- 📄 Experienced in **OCR-based document processing** and offline multimodal AI pipelines.
+- ⚙️ End-to-end development from architecture to live system using **Python, FastAPI, React, and Docker**.
+- 🎓 B.Sc. Computer Engineering — Eskişehir Osmangazi University *(2020 – 2026)*
 
 ---
 
-### 💼 Recent Experience & Highlights
+### 💼 Work Experience
 
-- [cite_start]**Software Development @ IC Ictas:** Optimized PostgreSQL query performance with strategic B-tree indexing, significantly reducing API latency for complex analytical dashboards[cite: 70].
-- [cite_start]**AI & Data Science @ TEI:** Led the R&D of an enterprise HR AI Assistant ("SAMETEI"), integrating OpenRouter APIs, Local LLMs, and configuring high-performance RAG pipelines[cite: 76, 77]. 
-- [cite_start]**Software Development @ Powintec:** Optimized React state management for continuous WebSocket data streams, ensuring real-time metrics processing with millisecond-level low latency[cite: 84, 85].
+| Role | Company | Period |
+|---|---|---|
+| Software Development Intern | IC İçtaş Nuclear & Industrial Facilities | Jan 2026 |
+| Data Science & AI Intern | TEI – TUSAŞ Engine Industries | Aug – Sep 2025 |
+| Part-Time Software Developer | Powintec Engineering *(Delft, NL — Remote)* | Jul 2023 – Jul 2025 |
+
+---
+
+### 🚀 Featured Projects
+
+**[SAMETEI](https://github.com/last-26/SAMETEI)** — *AI-Powered HR ChatBot (Corporate)*
+> Generative AI assistant serving 1,200+ engineers. Multi-LLM orchestration (OpenAI GPT, Anthropic Claude, local Ollama models), high-performance RAG pipeline with ChromaDB, and a fully offline OCR infrastructure using Qwen 2.5-VL — all within an enterprise air-gapped environment.
+
+**[HIREAI](https://gitlab.com/last-26/cv-analysis)** — *AI-Powered CV Analysis Platform (Capstone)*
+> Supports 1,200+ concurrent users at 2.3s avg. response time. Hybrid NLP model (Sentence Transformers + TF-IDF + Cosine Similarity) at 94.2% accuracy. 7-factor ATS scoring algorithm that reduced HR pre-screening time by 40%.
 
 ---
 
@@ -29,84 +48,82 @@
 
 <p>
   <strong>Programming Languages & Databases</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 <p>
   <strong>AI & ML Frameworks</strong><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p>
   <strong>NLP & LLM</strong><br>
-  <img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Sentence Transformers-3178C6?style=for-the-badge" alt="Sentence Transformers"/>
+  <img src="https://img.shields.io/badge/LangChain-white?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenRouter-8C52FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentence_Transformers-3178C6?style=for-the-badge"/>
 </p>
 
 <p>
-  <strong>RAG, Vector Search & OCR</strong><br>
-  <img src="https://img.shields.io/badge/ChromaDB-5B39A3?style=for-the-badge" alt="ChromaDB"/>
-  <img src="https://img.shields.io/badge/FAISS-4A90E2?style=for-the-badge" alt="FAISS"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/Qwen_2.5_VL-000000?style=for-the-badge" alt="Qwen 2.5-VL"/>
+  <strong>RAG & Vector Search</strong><br>
+  <img src="https://img.shields.io/badge/ChromaDB-5B39A3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Qdrant-AC143C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-4A90E2?style=for-the-badge"/>
+</p>
+
+<p>
+  <strong>Computer Vision & OCR</strong><br>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qwen_2.5--VL-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tesseract-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PyMuPDF-grey?style=for-the-badge"/>
 </p>
 
 <p>
   <strong>Backend & API Development</strong><br>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <p>
-  <strong>Frontend & Automation</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/n8n-1A82E2?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <strong>Frontend</strong><br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 </p>
 
----
-
-### 🚀 My Project Portfolio
-
-You can visit my personal portfolio website to explore detailed descriptions, live demos, technical architectures, and the source code of my projects.
-
-<p align="center">
-  <a href="https://last-26.web.app/">
-    <img src="https://img.shields.io/badge/Explore%20Portfolio-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Portfolio Website">
-  </a>
+<p>
+  <strong>Automation & DevOps</strong><br>
+  <img src="https://img.shields.io/badge/n8n-1A82E2?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D12?style=for-the-badge&logo=railway&logoColor=white"/>
 </p>
 
 ---
 
 ### 📫 Connect With Me
-- 📧 **E-mail:** <a href="mailto:a.sametsoysal@gmail.com">a.sametsoysal@gmail.com</a>
+- 📧 **E-mail:** <a href="/cdn-cgi/l/email-protection#b8d996cbd9d5ddcccbd7c1cbd9d4f8dfd5d9d1d496dbd7d5"><span class="__cf_email__" data-cfemail="dcbdf2afbdb1b9a8afb3a5afbdb09cbbb1bdb5b0f2bfb3b1">[email&#160;protected]</span></a>
 - 🔗 **LinkedIn:** <a href="https://linkedin.com/in/samet-soysal">linkedin.com/in/samet-soysal</a>
 - 💻 **GitHub:** <a href="https://github.com/last-26">github.com/last-26</a>
+- 🌐 **Portfolio:** <a href="https://last-26.web.app/">last-26.web.app</a>
 
 ---
 
 ### ⚡ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=last-26&show_icons=true&theme=default" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=last-26&layout=compact" alt="Top Langs" />
-</p>
-
----
-
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=last-26" alt="visitor badge" height="25"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=last-26&layout=compact" alt="Top La
