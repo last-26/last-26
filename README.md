@@ -14,8 +14,6 @@
 
 ---
 
----
-
 ### 🧑‍💻 About Me
 
 I'm an AI Engineer and Full-Stack Developer specializing in **Generative AI**, **RAG pipelines**, and **Multi-LLM Orchestration**. I bridge the gap between complex machine learning models and production-grade full-stack systems — delivering data-driven solutions with millisecond-level latency and high accuracy.
@@ -127,7 +125,28 @@ I'm an AI Engineer and Full-Stack Developer specializing in **Generative AI**, *
 
 ---
 
-### ⚡ GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=last-26&show_icons=true&theme=default" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=last-26&layout=compact" alt="Top La
+  <img src="https://github-readme-stats.vercel.app/api?username=last-26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=last-26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=last-26&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=last-26&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=last-26&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
+
+---
+
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=last-26" alt="visitor badge" height="25"/>
+</p>
