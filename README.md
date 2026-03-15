@@ -120,7 +120,7 @@ I'm an AI Engineer and Full-Stack Developer specializing in **Generative AI**, *
 ---
 
 ### 📫 Connect With Me
-- 📧 **E-mail:** <a href="/cdn-cgi/l/email-protection#b8d996cbd9d5ddcccbd7c1cbd9d4f8dfd5d9d1d496dbd7d5"><span class="__cf_email__" data-cfemail="dcbdf2afbdb1b9a8afb3a5afbdb09cbbb1bdb5b0f2bfb3b1">[email&#160;protected]</span></a>
+- 📧 **E-mail:** a.sametsoysal@gmail.com
 - 🔗 **LinkedIn:** <a href="https://linkedin.com/in/samet-soysal">linkedin.com/in/samet-soysal</a>
 - 💻 **GitHub:** <a href="https://github.com/last-26">github.com/last-26</a>
 - 🌐 **Portfolio:** <a href="https://last-26.web.app/">last-26.web.app</a>
