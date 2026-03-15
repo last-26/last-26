@@ -6,9 +6,13 @@
 
 <p align="center">
   <a href="https://last-26.web.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio%20—%20last--26.web.app-000000?style=for-the-badge&logoColor=white" alt="Portfolio Website"/>
+    <img src="https://img.shields.io/badge/🌐%20%20Explore%20My%20Full%20Portfolio%20→%20last--26.web.app%20%20-0a0a0a?style=for-the-badge&logoColor=white" height="40" alt="Portfolio Website"/>
   </a>
+  <br/><br/>
+  <sub><i>Live demos · Project architectures · Source code · More about me</i></sub>
 </p>
+
+---
 
 ---
 
