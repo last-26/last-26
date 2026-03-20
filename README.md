@@ -128,21 +128,13 @@ I'm an AI Engineer and Full-Stack Developer specializing in **Generative AI**, *
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=last-26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="175" alt="GitHub Stats"/>
-  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=last-26&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages"/>
+  &nbsp;
+  <img src="https://streak-stats.demolab.com?user=last-26&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="175" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=last-26&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=last-26&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=last-26&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=last-26&theme=tokyo-night&hide_border=true&area=true&days=7" alt="Contribution Graph"/>
 </p>
 
 ---
