@@ -26,23 +26,7 @@ I'm an AI Engineer and Full-Stack Developer specializing in **Generative AI**, *
 
 ---
 
-### 💼 Work Experience
 
-| Role | Company | Period |
-|---|---|---|
-| Software Development Intern | IC İçtaş Nuclear & Industrial Facilities | Jan 2026 |
-| Data Science & AI Intern | TEI – TUSAŞ Engine Industries | Aug – Sep 2025 |
-| Part-Time Software Developer | Powintec Engineering *(Delft, NL — Remote)* | Jul 2023 – Jul 2025 |
-
----
-
-### 🚀 Featured Projects
-
-**[SAMETEI](https://github.com/last-26/SAMETEI)** — *AI-Powered HR ChatBot (Corporate)*
-> Generative AI assistant serving 1,200+ engineers. Multi-LLM orchestration (OpenAI GPT, Anthropic Claude, local Ollama models), high-performance RAG pipeline with ChromaDB, and a fully offline OCR infrastructure using Qwen 2.5-VL — all within an enterprise air-gapped environment.
-
-**[HIREAI](https://gitlab.com/last-26/cv-analysis)** — *AI-Powered CV Analysis Platform (Capstone)*
-> Supports 1,200+ concurrent users at 2.3s avg. response time. Hybrid NLP model (Sentence Transformers + TF-IDF + Cosine Similarity) at 94.2% accuracy. 7-factor ATS scoring algorithm that reduced HR pre-screening time by 40%.
 
 ---
 
