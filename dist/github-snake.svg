@@ -1,0 +1,59 @@
+<svg width="900" height="180" viewBox="0 0 900 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution animation placeholder</title>
+  <desc id="desc">A light contribution trail placeholder that is replaced daily by GitHub Actions.</desc>
+  <defs>
+    <linearGradient id="trail" x1="80" y1="90" x2="820" y2="90" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#70A5FD"/>
+      <stop offset=".55" stop-color="#50FA7B"/>
+      <stop offset="1" stop-color="#BF91F3"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-90%" width="140%" height="280%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="180" rx="18" fill="#F6F8FA"/>
+  <g opacity=".75">
+    <path d="M78 54H822" stroke="#D8DEE9" stroke-width="1"/>
+    <path d="M78 82H822" stroke="#D8DEE9" stroke-width="1"/>
+    <path d="M78 110H822" stroke="#D8DEE9" stroke-width="1"/>
+    <path d="M78 138H822" stroke="#D8DEE9" stroke-width="1"/>
+  </g>
+  <g fill="#D0D7DE">
+    <rect x="88" y="46" width="14" height="14" rx="3"/>
+    <rect x="116" y="74" width="14" height="14" rx="3"/>
+    <rect x="144" y="102" width="14" height="14" rx="3"/>
+    <rect x="172" y="130" width="14" height="14" rx="3"/>
+    <rect x="200" y="102" width="14" height="14" rx="3"/>
+    <rect x="228" y="74" width="14" height="14" rx="3"/>
+    <rect x="256" y="46" width="14" height="14" rx="3"/>
+    <rect x="284" y="74" width="14" height="14" rx="3"/>
+    <rect x="312" y="102" width="14" height="14" rx="3"/>
+    <rect x="340" y="130" width="14" height="14" rx="3"/>
+    <rect x="368" y="102" width="14" height="14" rx="3"/>
+    <rect x="396" y="74" width="14" height="14" rx="3"/>
+    <rect x="424" y="46" width="14" height="14" rx="3"/>
+    <rect x="452" y="74" width="14" height="14" rx="3"/>
+    <rect x="480" y="102" width="14" height="14" rx="3"/>
+    <rect x="508" y="130" width="14" height="14" rx="3"/>
+    <rect x="536" y="102" width="14" height="14" rx="3"/>
+    <rect x="564" y="74" width="14" height="14" rx="3"/>
+    <rect x="592" y="46" width="14" height="14" rx="3"/>
+    <rect x="620" y="74" width="14" height="14" rx="3"/>
+    <rect x="648" y="102" width="14" height="14" rx="3"/>
+    <rect x="676" y="130" width="14" height="14" rx="3"/>
+    <rect x="704" y="102" width="14" height="14" rx="3"/>
+    <rect x="732" y="74" width="14" height="14" rx="3"/>
+    <rect x="760" y="46" width="14" height="14" rx="3"/>
+    <rect x="788" y="74" width="14" height="14" rx="3"/>
+  </g>
+  <path id="motionPath" d="M95 53L123 81L151 109L179 137L207 109L235 81L263 53L291 81L319 109L347 137L375 109L403 81L431 53L459 81L487 109L515 137L543 109L571 81L599 53L627 81L655 109L683 137L711 109L739 81L767 53L795 81" stroke="url(#trail)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)"/>
+  <circle r="9" fill="#173B57" stroke="#70A5FD" stroke-width="4">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M95 53L123 81L151 109L179 137L207 109L235 81L263 53L291 81L319 109L347 137L375 109L403 81L431 53L459 81L487 109L515 137L543 109L571 81L599 53L627 81L655 109L683 137L711 109L739 81L767 53L795 81"/>
+  </circle>
+  <text x="80" y="34" fill="#24292F" font-family="Segoe UI, Ubuntu, sans-serif" font-size="15" font-weight="700">Contribution trail</text>
+  <text x="80" y="166" fill="#57606A" font-family="Segoe UI, Ubuntu, sans-serif" font-size="12">Generated asset placeholder. GitHub Actions replaces this with the real contribution animation.</text>
+</svg>
