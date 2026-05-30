@@ -88,21 +88,13 @@ flowchart LR
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,nodejs,postgres,mongodb,docker,aws,firebase,git,githubactions" alt="Core stack icons" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG-Vector%20Search-70A5FD?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/LLM%20Ops-Multi--Model%20Routing-BF91F3?style=flat-square" alt="LLM Ops" />
-  <img src="https://img.shields.io/badge/OCR-Qwen%202.5--VL%20%2B%20Tesseract-FFB86B?style=flat-square" alt="OCR" />
-  <img src="https://img.shields.io/badge/Agents-LangGraph%20%2B%20MCP-50FA7B?style=flat-square" alt="Agents" />
-  <img src="https://img.shields.io/badge/Automation-Playwright%20%2B%20n8n-8BE9FD?style=flat-square" alt="Automation" />
-</p>
-
 ---
 
 ## 3D Contribution Map
 
 <p align="center">
   <a href="https://github.com/last-26?tab=repositories" title="Open my repositories">
-    <img width="100%" src="./profile-3d-contrib/profile-season-animate.svg" alt="Animated 3D GitHub contribution calendar" />
+    <img width="100%" src="./profile-3d-contrib/profile-night-rainbow-soft.svg" alt="Animated 3D GitHub contribution calendar" />
   </a>
 </p>
 
@@ -123,15 +115,13 @@ flowchart LR
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://ghstats.dev/">
-    <img height="175" src="https://ghstats.dev/api/card?username=last-26&theme=tokyonight&hide_border=true&show_icons=true&show_ring=true&custom_title=GitHub%20Pulse" alt="GitHub profile stats" />
-  </a>
-  <a href="https://ghstats.dev/">
-    <img height="175" src="https://ghstats.dev/api/langs?username=last-26&theme=tokyonight&layout=stacked&max_langs=8&hide_border=true&custom_title=Language%20Mix" alt="Top languages" />
-  </a>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=last-26&theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
+  <a href="https://ghstats.dev/">
+    <img height="175" src="https://ghstats.dev/api/langs?username=last-26&theme=tokyonight&layout=stacked&max_langs=8&hide_border=true&custom_title=Language%20Mix" alt="Top languages" />
+  </a>
   <img height="175" src="https://streak-stats.demolab.com?user=last-26&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 </p>
 
