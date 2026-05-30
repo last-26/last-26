@@ -33,7 +33,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          ACTIVITY_START: "2026-02-01"
+          ACTIVITY_START: "2026-01-01"
         run: python .github/scripts/render-activity-focus.py
 
       - name: Commit generated assets

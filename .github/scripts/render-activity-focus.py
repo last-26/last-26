@@ -9,7 +9,7 @@ from pathlib import Path
 
 
 USERNAME = os.environ.get("USERNAME") or os.environ.get("GITHUB_REPOSITORY_OWNER") or "last-26"
-START_DATE = dt.date.fromisoformat(os.environ.get("ACTIVITY_START", "2026-02-01"))
+START_DATE = dt.date.fromisoformat(os.environ.get("ACTIVITY_START", "2026-01-01"))
 OUTPUT_PATH = Path(os.environ.get("ACTIVITY_OUTPUT", "profile-assets/2026-momentum.svg"))
 
 
@@ -164,8 +164,8 @@ def main():
         )
 
     stat_cards = [
-        ("Focused total", fmt_count(total), "since Feb 2026"),
-        ("Active days", str(active_days), f"{len(days)} day window"),
+        ("2026 total", fmt_count(total), "year to date"),
+        ("Active days", str(active_days), f"{len(days)} days in 2026"),
         ("Best day", str(best_day["count"]), best_day["date"].strftime("%b %d")),
         ("Current streak", str(current), f"longest {longest} days"),
     ]
@@ -182,7 +182,7 @@ def main():
     chart_x, chart_y = 520, 185
     chart_w, chart_h = 320, 112
     bars.append(text(chart_x, chart_y - 22, "Monthly ramp", size=14, fill="#E6EDF3", weight=700))
-    bars.append(text(chart_x + chart_w, chart_y - 22, "Feb 2026 -> now", size=12, fill="#8B949E", weight=600, anchor="end"))
+    bars.append(text(chart_x + chart_w, chart_y - 22, "2026 year to date", size=12, fill="#8B949E", weight=600, anchor="end"))
     bar_gap = 18
     bar_width = (chart_w - (len(month_totals) - 1) * bar_gap) / max(len(month_totals), 1)
     for i, (month, count) in enumerate(month_totals.items()):
@@ -201,7 +201,7 @@ def main():
 
     svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">
   <title id="title">2026 GitHub build sprint for {esc(USERNAME)}</title>
-  <desc id="desc">Focused contribution heatmap and monthly ramp from February 2026 to today.</desc>
+  <desc id="desc">Focused contribution heatmap and monthly ramp for 2026 year to date.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="{width}" y2="{height}" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#0D1117"/>
@@ -224,7 +224,7 @@ def main():
   <rect width="{width}" height="{height}" rx="18" fill="url(#bg)"/>
   <circle cx="778" cy="36" r="94" fill="#70A5FD" opacity="0.08" filter="url(#glow)"/>
   {text(42, 42, "2026 Build Sprint", size=26, fill="#E6EDF3", weight=800)}
-  {text(42, 65, f"Focused activity window: {START_DATE.strftime('%b %d, %Y')} -> {today.strftime('%b %d, %Y')}", size=13, fill="#8B949E", weight=600)}
+  {text(42, 65, f"2026 year-to-date activity: {START_DATE.strftime('%b %d')} -> {today.strftime('%b %d')}", size=13, fill="#8B949E", weight=600)}
   {"".join(cards)}
   {"".join(month_labels)}
   {"".join(cells)}

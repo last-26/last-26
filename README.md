@@ -103,7 +103,7 @@ flowchart LR
 ## GitHub Stats
 
 <p align="center">
-  <img width="100%" src="./profile-assets/2026-momentum.svg" alt="GitHub activity focused on the active period since February 2026" />
+  <img width="100%" src="./profile-assets/2026-momentum.svg" alt="GitHub activity focused on 2026" />
 </p>
 
 <p align="center">
@@ -111,10 +111,6 @@ flowchart LR
     <img height="175" src="https://ghstats.dev/api/langs?username=last-26&theme=tokyonight&layout=stacked&max_langs=8&hide_border=true&custom_title=Language%20Mix" alt="Top languages" />
   </a>
   <img height="175" src="https://streak-stats.demolab.com?user=last-26&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=last-26&theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
 ---
