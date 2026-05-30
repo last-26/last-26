@@ -103,7 +103,7 @@ flowchart LR
 ## GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=last-26&theme=tokyonight" alt="GitHub profile summary" />
+  <img width="100%" src="./profile-assets/2026-momentum.svg" alt="GitHub activity focused on the active period since February 2026" />
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=last-26&theme=tokyo-night&hide_border=true&area=true&days=30&custom_title=Contribution%20Graph" alt="Contribution graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=last-26&theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
 ---
