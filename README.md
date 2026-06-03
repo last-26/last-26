@@ -82,7 +82,7 @@ flowchart LR
 
 ---
 
-## Tech Stack
+## Tech Stack& Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,nodejs,postgres,mongodb,docker,aws,firebase,git,githubactions" alt="Core stack icons" />
